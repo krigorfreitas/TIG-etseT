@@ -43,8 +43,8 @@ Você deve desenvolver as quatro funções (o mais simples possível) de forma q
 - [ ] (<b>Para todos membros executarem</b>) Gerar um arquivo de history com o <b>seu nome</b> e enviar para o repositório remoto. ❗️ATENÇÃO❗️É fundamental o não esquecimento do envio deste arquivo para o repositório remoto.
 
 Dica e exemplo de geração de arquivo: `history > LOG_AngeloLuz`
-- [ ] Preencher o [formulário] (https://docs.google.com/forms/d/e/1FAIpQLSdkjrmTVYY6_3YMRK1BXNOUuzYJ3u_25wZT1qe5k718e52CAA/viewform?usp=sf_link) (Se liga! Após submeter o link do repositório o repositório não poderá mais ser modificado, caso tenha modificações, a prova será descartada)
-
+- [ ] Preencher o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdkjrmTVYY6_3YMRK1BXNOUuzYJ3u_25wZT1qe5k718e52CAA/viewform?usp=sf_link) (Se liga! Após submeter o link do repositório o repositório não poderá mais ser modificado, caso tenha modificações, a prova será descartada)
+## 🗒Avaliação teórica🗒
 <b>❗️ATENÇÃO❗️</b>
 Como avaliação teórica será considerado os formulários anteriores para os que realizaram as entregas. Quem não entregou, tem até 23:59 da terça-feira para entregar os formmulários anteriores e mais o adicional, valendo um B/C na avaliação teórica.
 
