@@ -16,7 +16,7 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 ## 🎥Cenário🎥
 1. Você deve executar o seguinte comando no seu terminal para limpar o history da máquina em que a prova será realizada:
 
-``bash
+``
 history -c
 ``
 
