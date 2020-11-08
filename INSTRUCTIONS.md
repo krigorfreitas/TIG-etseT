@@ -8,9 +8,9 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 
 ## ⏱Duração da prova⏱
 
-* Entrega em até 6 horas após o horário de início <b>vale A</b>
-* Entrega entre 6 e 12 horas após o horário de início <b>vale B</b>
-* Entrega entre 12 e 24 horas após o horário de início <b>vale C</b>
+* Entrega em até 24 horas após o horário de início <b>vale A</b>
+* Entrega entre 24 e 72 horas após o horário de início <b>vale B</b>
+* Entrega entre 72 e 168 horas após o horário de início <b>vale C</b>
 
 
 ## 🎥Cenário🎥
@@ -44,14 +44,15 @@ Você deve desenvolver as quatro funções (o mais simples possível) de forma q
 
 Dica e exemplo de geração de arquivo: `history > LOG_AngeloLuz`
 - [ ] Preencher o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdkjrmTVYY6_3YMRK1BXNOUuzYJ3u_25wZT1qe5k718e52CAA/viewform?usp=sf_link) (Se liga! Após submeter o link do repositório o repositório não poderá mais ser modificado, caso tenha modificações, a prova será descartada)
+
+## 📹 Apresentação dos repositórios 📹
+
+Os repositórios, commits, pull-requests e demais estratégias adotadas pelo grupo devem ser apresentadas em aula, no dia 16/11. Esta será sua avaliação final sobre versionamento, faça com dedicação e vise uma entrega de qualidade.
+
 ## 🗒Avaliação teórica🗒
-<b>❗️ATENÇÃO❗️</b>
-Como avaliação teórica será considerado os formulários anteriores para os que realizaram as entregas. Quem não entregou, tem até 23:59 da terça-feira para entregar os formmulários anteriores e mais o adicional, valendo um B/C na avaliação teórica.
 
-[Exercício git básico](https://docs.google.com/forms/d/e/1FAIpQLSf8aIbJlC38Qwph5_u0jJyBPnIZbvI8QUZLz2FVlhLMYethXA/viewform?usp=sf_link)
+Atenção! Esta deve ser realizada individualmente.
 
-[Git flow e padronização](https://docs.google.com/forms/d/e/1FAIpQLSf8aIbJlC38Qwph5_u0jJyBPnIZbvI8QUZLz2FVlhLMYethXA/viewform?usp=sf_link)
+[Parte 1 - Git flow e padronização](https://forms.gle/5PJEWAhTwYrzPmg36)
 
-[Atividade adicional](https://docs.google.com/forms/d/e/1FAIpQLSd9x2p7006d_nWc1gbH7YQggwQUdWvljOe0k9S5qSMUfMSlrw/viewform?usp=sf_link)
-
-
+[Parte 2 - Atividade adicional](https://docs.google.com/forms/d/e/1FAIpQLSd9x2p7006d_nWc1gbH7YQggwQUdWvljOe0k9S5qSMUfMSlrw/viewform?usp=sf_link)
