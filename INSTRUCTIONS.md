@@ -6,12 +6,6 @@ O desenvolvimento da solução é praticamente irrelevante, servirá apenas para
 
 Você será avaliado por conseguir realizar as atividades propostas e também (tanto quanto) por utilizar boas práticas, sejam nas mensagens de commits, criação e nomeação de branchs e por aí vai.
 
-## ⏱Duração da prova⏱
-
-* Entrega em até 24 horas após o horário de início <b>vale A</b>
-* Entrega entre 24 e 72 horas após o horário de início <b>vale B</b>
-* Entrega entre 72 e 168 horas após o horário de início <b>vale C</b>
-
 
 ## 🎥Cenário🎥
 1. Você deve executar o seguinte comando no seu terminal para limpar o history da máquina em que a prova será realizada:
