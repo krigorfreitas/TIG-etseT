@@ -1,6 +1,6 @@
 # Leia com muita 🚒atenção🧯 as instruções
 
-Esta prova deverá ser feita em <b>dupla ou trio</b>.
+Esta atividade deverá ser feita em <b>dupla ou trio</b>.
 
 O desenvolvimento da solução é praticamente irrelevante, servirá apenas para gerar conteúdo para a realização das atividades no repositório.
 
@@ -14,16 +14,17 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 history -c
 ``
 
-2. Para realização desta atividade você deve utilizar este repositório como template. Para isso, ao entrar neste repositório clique em "Use this template".
+2. Para realização desta atividade **um dos integrantes** do grupo deve utilizar este repositório como **template**. Para isso, ao entrar neste repositório clique em "Use this template" e, com isso, o repositório será copiado para o seu github. 
 
+3. Em seguida o integrante que copiou o template deve adicionar os demais integrantes como contribuidores no projeto.
 
-3. Abrir o projeto no visual studio code ou editor de preferência.
+4. Todos integrantes devem clonar o projeto e abrir no visual studio code ou editor de preferência.
 
-4. Deverá ser utilizado o gitmoji para realização dos commits ou uma das outras alternativas de lint apresentada. Caso não queira utilizar nenhuma, os commits deverão seguir o padrão sugerido nas convenções para commits.
+5. Deverá ser utilizado o gitmoji para realização dos commits ou uma das outras alternativas de lint apresentada. Caso não queira utilizar nenhuma, os commits deverão seguir o padrão sugerido nas convenções para commits.
 
 ## 🕹Atividade🕹
 
-Você deve desenvolver as quatro funções (o mais simples possível) de forma que cumpra com o checklist a seguir. 
+Vocês devem desenvolver as quatro funções (o mais simples possível) de forma que cumpra com o checklist a seguir. 
 
 - [ ] Cada função deverá ser desenvolvida em uma branch diferente, seguindo uma simples convenção de `feature/**`, onde '**', indica o nome da feature desenvolvida. <b>ATENÇÃO!</b> As atividades devem ser IGUALMENTE distribuidas entre os membros.
 - [ ] Toda branch quando tiver sua implementação concluída, deverá ter um `merge request` aberto para a branch master solicitando o `code review` dos demais integrantes, que, naturalmente, devem revisar e aprovar a entrega do colega.
@@ -41,7 +42,7 @@ Dica e exemplo de geração de arquivo: `history > LOG_AngeloLuz`
 
 ## 📹 Apresentação dos repositórios 📹
 
-Os repositórios, commits, pull-requests e demais estratégias adotadas pelo grupo devem ser apresentadas em aula, no dia 16/11. Esta será sua avaliação final sobre versionamento, faça com dedicação e vise uma entrega de qualidade.
+Os repositórios, commits, pull-requests e demais estratégias adotadas pelo grupo devem ser apresentadas em aula, no dia 03/11. Esta será sua avaliação final sobre versionamento, faça com dedicação e vise uma entrega de qualidade.
 
 ## 🗒Avaliação teórica🗒
 
@@ -49,4 +50,4 @@ Atenção! Esta deve ser realizada individualmente.
 
 [Parte 1 - Git flow e padronização](https://forms.gle/5PJEWAhTwYrzPmg36)
 
-[Parte 2 - Atividade adicional](https://docs.google.com/forms/d/e/1FAIpQLSd9x2p7006d_nWc1gbH7YQggwQUdWvljOe0k9S5qSMUfMSlrw/viewform?usp=sf_link)
+[Parte 2 - Atividade adicional](https://forms.gle/HwDpLMPe4jC8zJ4H8)
