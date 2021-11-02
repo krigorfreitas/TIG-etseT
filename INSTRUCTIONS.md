@@ -42,5 +42,5 @@ Dica e exemplo de geração de arquivo: `history > LOG_AngeloLuz`
 
 ## 📹 Apresentação dos repositórios 📹
 
-Os repositórios, commits, pull-requests e demais estratégias adotadas pelo grupo devem ser apresentadas em aula, no dia 03/11. Esta será sua avaliação final sobre versionamento, faça com dedicação e vise uma entrega de qualidade.
+Os repositórios, commits, pull-requests e demais estratégias adotadas pelo grupo devem ser apresentadas em aula, no dia 16/11. Esta será sua avaliação final sobre versionamento, faça com dedicação e vise uma entrega de qualidade.
 
