@@ -44,10 +44,3 @@ Dica e exemplo de geração de arquivo: `history > LOG_AngeloLuz`
 
 Os repositórios, commits, pull-requests e demais estratégias adotadas pelo grupo devem ser apresentadas em aula, no dia 03/11. Esta será sua avaliação final sobre versionamento, faça com dedicação e vise uma entrega de qualidade.
 
-## 🗒Avaliação teórica🗒
-
-Atenção! Esta deve ser realizada individualmente.
-
-[Parte 1 - Git flow e padronização](https://forms.gle/5PJEWAhTwYrzPmg36)
-
-[Parte 2 - Atividade adicional](https://forms.gle/HwDpLMPe4jC8zJ4H8)
