@@ -15,6 +15,8 @@ history -c
 ``
 
 2. Para realização desta atividade **um dos integrantes** do grupo deve utilizar este repositório como **template**. Para isso, ao entrar neste repositório clique em "Use this template" e, com isso, o repositório será copiado para o seu github. 
+![image](https://user-images.githubusercontent.com/5839083/141109936-315d9aac-243f-43a0-9b58-ba206ccf5d2d.png)
+
 
 3. Em seguida o integrante que copiou o template deve adicionar os demais integrantes como contribuidores no projeto.
 
